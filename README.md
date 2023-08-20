@@ -6,10 +6,6 @@ Python 3.9
 Django 3.2.16
 DRF 3.12.4
 
-### Описание API
-Redoc: http://127.0.0.1:8000/redoc/
-или в [YAML файле](https://github.com/tr202/api_yamdb/blob/4d01d088f4191888bf62c20965f0f797a6285cf3/api_yamdb/static/redoc.yaml)
-
 ### Запуск проекта в dev-режиме
 - Установите и активируйте виртуальное окружение
 - Установите зависимости из файла requirements.txt
