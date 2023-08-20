@@ -3,7 +3,7 @@
 **API YaMDB** - это проект, который предоставляет REST API для работы с базой данных отзывов на фильмы, книги и музыку. В этой базе данных пользователи могут оставлять отзывы и комментарии, а также ставить оценки произведениям.
 
 ### Авторы
-Студенты 55 когорты [Python Backend](https://practicum.yandex.ru/profile/backend-developer/) школы Yandex Practicum.
+Студенты 55 когорты курса [Python Backend](https://practicum.yandex.ru/profile/backend-developer/) школы Yandex Practicum.
 - Анатолий Шерин: [github](https://github.com/AnatoliyPracticum)
 - Геннадий Умикашвили: [github](https://github.com/Gennady-Umikashvili)
 - Константин Волков : [github](https://github.com/tr202)
