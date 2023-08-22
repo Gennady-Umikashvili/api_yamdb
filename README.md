@@ -30,5 +30,7 @@ http://127.0.0.1:8000/api/v1/auth/token/
 http://127.0.0.1:8000/api/v1/users/me/
 ```
 
-### Автор
-Геннадий Умикашвили: [github](https://github.com/Gennady-Umikashvili)
+### Авторы
+- Геннадий Умикашвили: [github](https://github.com/Gennady-Umikashvili)
+- Анатолий Шерин: [github](https://github.com/AnatoliyPracticum)
+- Константин Волков : [github](https://github.com/tr202)
